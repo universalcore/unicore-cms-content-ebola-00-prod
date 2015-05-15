@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "translated post ", 
+  "language": "fre_FR", 
+  "title": "translated post ", 
+  "primary_category": "2008388295bc4aedb50fc4baac2b340e", 
+  "created_at": "2015-05-15T08:41:07.026600+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-05-15T08:41:07.026963+00:00", 
+  "_version": {
+    "package_version": "1.0.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Ebola virus disease is a severe, often fatal illness that has broken out in\r\nWest Africa and the Democratic Republic of Congo. The illness affects humans\r\nand nonhuman primates (monkeys, gorillas, and chimpanzees). The illness can\r\nspread to other countries if they do not take precautions to prevent it.\r\nZambia has currently put up several measures to prevent the illness from\r\ncoming into the country. These measures require your cooperatio", 
+  "source": "561b44a5e90e4fbf94a56f8623282a5c", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "translated-post", 
+  "uuid": "2e644f4260764db8b684f4da1a2f1f8b"
+}
